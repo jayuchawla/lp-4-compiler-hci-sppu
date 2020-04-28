@@ -1,0 +1,3 @@
+
+with open("grammar.txt", "r") as file:
+	print(file.read()+"\t---")
